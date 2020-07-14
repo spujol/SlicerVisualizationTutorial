@@ -8,5 +8,5 @@ Sonia Pujol, Ph.D, Director of 3D Slicer Training & Education, Assistant Profess
 
 Materials:
 * Software: [3D Slicer version 4.11](https://download.slicer.org/)
-* Dataset: [3D Visualization dataset](https://www.dropbox.com/s/p41hlvssjpa48in/WhiteMatterExplorationData.zip?dl=0)
+* Dataset: [3D Visualization dataset](https://www.dropbox.com/s/03emcqnlec4t2s5/3DVisualizationDataset.zip?dl=1)
 
