@@ -8,5 +8,5 @@ Sonia Pujol, Ph.D, Director of 3D Slicer Training & Education, Assistant Profess
 
 Materials:
 * Software: [3D Slicer version 4.11](https://download.slicer.org/)
-* Dataset: Click on the link to download the dataset [3D Visualization dataset](https://www.dropbox.com/s/03emcqnlec4t2s5/3DVisualizationDataset.zip?dl=1)
+* Dataset: Click on [3D Visualization dataset](https://www.dropbox.com/s/03emcqnlec4t2s5/3DVisualizationDataset.zip?dl=1) to download the tutorial dataset.
 
